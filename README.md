@@ -1,7 +1,7 @@
 Streaming Platform SQL Analysis
 Project Overview
 
-This project simulates a streaming platform database (similar to Netflix or Spotify) and demonstrates how SQL can be used to analyze user activity, content popularity, and subscription behavior.
+This project simulates a streaming platform database (similar to Netflix or Spotify) and demonstrates how SQL can be used to analyze user activity, content popularity, and subscription behavior. This project answer the most common questions: How many users do we have in each country? What's the most popular content? How many users cancelled their subscription? How much profit we made? 
 
 The goal of this project is to showcase SQL data analysis skills, including:
 
